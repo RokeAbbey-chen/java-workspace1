@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crawl.iml" filepath="$PROJECT_DIR$/.idea/modules/crawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crawl_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crawl_main.iml" group="crawl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crawl_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crawl_test.iml" group="crawl" />
+    </modules>
+  </component>
+</project>

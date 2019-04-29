@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/jmx-1_2_1-ri.zip!/jmx-1_2_1-bin/doc/api" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/doc/api/spec-jmx" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/doc/api/spec-jmxremote" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/jmx-1_2_1-ri.zip!/jmx-1_2_1-bin/examples/BaseAgent" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx-1_2_1-ri.zip!/jmx-1_2_1-bin/examples/DynamicMBean" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx-1_2_1-ri.zip!/jmx-1_2_1-bin/examples/ModelMBean" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx-1_2_1-ri.zip!/jmx-1_2_1-bin/examples/MonitorMBean" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx-1_2_1-ri.zip!/jmx-1_2_1-bin/examples/OpenMBean" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx-1_2_1-ri.zip!/jmx-1_2_1-bin/examples/Relation" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx-1_2_1-ri.zip!/jmx-1_2_1-bin/examples/StandardMBean" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Basic/jmxmp" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Basic/rmi" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Lookup" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/fine_grained/client" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/fine_grained/mbeans" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/fine_grained/plain" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/fine_grained/server" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/simple/client" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/simple/mbeans" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/simple/plain" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/simple/server" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/subject_delegation/client" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/subject_delegation/mbeans" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/subject_delegation/plain" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/jmxmp/subject_delegation/server" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/rmi/fine_grained/client" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/rmi/fine_grained/mbeans" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/rmi/fine_grained/server" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/rmi/simple/client" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/rmi/simple/mbeans" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/rmi/simple/server" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/rmi/subject_delegation/client" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/rmi/subject_delegation/mbeans" />
+      <root url="jar://$PROJECT_DIR$/libs/jmx_remote-1_0_1_03-ri.zip!/jmxremote-1_0_1-bin/examples/Security/rmi/subject_delegation/server" />
+    </SOURCES>
+  </library>
+</component>

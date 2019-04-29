@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.java.openjdk:ctsym-java7:1.7.0_15">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/openjdk/ctsym-java7/1.7.0_15/ctsym-java7-1.7.0_15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/openjdk/ctsym-java7/1.7.0_15/ctsym-java7-1.7.0_15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/openjdk/ctsym-java7/1.7.0_15/ctsym-java7-1.7.0_15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

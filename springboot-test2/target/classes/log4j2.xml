@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="error">
+	<Appenders>
+		<Console name="console" target="SYSTEM_OUT">
+		 	<!--控制台只输出level及以上级别的信息（onMatch），其他的直接拒绝（onMismatch）-->
+			<ThresholdFilter level="info" onMatch="ACCEPT" onMismatch="DENY"/>
+			<PatternLayout pattern="%d{HH:mm:ss,SSS} %-5p [%t] %c{2} %3x - %m%n" />
+		</Console>
+		<RollingFile name="gameAppender" fileName="/Data/sqllogs/log_game.log"
+			filePattern="/Data/sqllogs/log_game_%d{yyyy-MM-dd:HH}.sql" immediateFlush="false">
+			<PatternLayout>
+				<Pattern>%m</Pattern>
+			</PatternLayout>
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1" modulate="true" />
+			</Policies>
+		</RollingFile>
+	</Appenders>
+	
+	<Loggers>
+		<AsyncLogger name="com.xqtv.paopao.dataaccess.log.GameLogger"
+			level="info" includeLocation="false">
+			<AppenderRef ref="gameAppender" />
+		</AsyncLogger>
+		<AsyncRoot level="info">
+			<AppenderRef ref="console" />
+		</AsyncRoot>
+		
+	</Loggers>
+
+</Configuration>

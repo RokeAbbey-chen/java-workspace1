@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-simple-shadowsocks.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-simple-shadowsocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-simple-shadowsocks_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-simple-shadowsocks_main.iml" group="netty-simple-shadowsocks" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-simple-shadowsocks_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-simple-shadowsocks_test.iml" group="netty-simple-shadowsocks" />
+    </modules>
+  </component>
+</project>

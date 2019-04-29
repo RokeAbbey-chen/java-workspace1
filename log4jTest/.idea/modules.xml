@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log4jTest.iml" filepath="$PROJECT_DIR$/.idea/modules/log4jTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log4jTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/log4jTest_main.iml" group="log4jTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log4jTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/log4jTest_test.iml" group="log4jTest" />
+    </modules>
+  </component>
+</project>

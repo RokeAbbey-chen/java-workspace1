@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: fish.payara.extras:payara-embedded-all:5.181">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/fish.payara.extras/payara-embedded-all/5.181/b9bb7eca014f8b7ef79ea1a1c76a164f392b4e33/payara-embedded-all-5.181.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/fish.payara.extras/payara-embedded-all/5.181/6e30035889545906a31aa2349ec4a02fc0006771/payara-embedded-all-5.181-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../jars/payara-embedded-all-5.181-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

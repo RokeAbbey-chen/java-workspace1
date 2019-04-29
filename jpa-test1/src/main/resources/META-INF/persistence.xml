@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0"
+             xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+    <persistence-unit name="JPA" transaction-type="RESOURCE_LOCAL">
+        <!--
+            配置使用什么ORM产品来作为JPA实现
+            1.实际配置的是javax.persistence.spi.PersistenceProvider接口实现类
+            2.若项目中只有一个ORM产品,该配置可以省略
+        -->
+        <provider>org.hibernate.ejb.HibernatePersistence</provider>
+
+        <!-- 添加持久化类 -->
+        <class>jpa_test.beans.Customer</class>
+
+        <properties>
+            <!-- 配置数据库连接信息 -->
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/abc?serverTimezone=UTC" />
+            <property name="javax.persistence.jdbc.user" value="root" />
+            <property name="javax.persistence.jdbc.password" value="123456" />
+
+            <!-- 配置JPA实现产品的基本属性 -->
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
+            <property name="hibernate.format_sql" value="true"/>
+            <property name="hibernate.show_sql" value="true"/>
+            <property name="hibernate.hbm2ddl.auto" value="update"/>
+        </properties>
+    </persistence-unit>
+</persistence>

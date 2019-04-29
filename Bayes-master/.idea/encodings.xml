@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.11.Final/netty-all-4.1.11.Final-sources.jar!/io/netty/channel/ChannelInboundHandlerAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/roke/Datamining/Bayes.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/roke/Datamining/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/roke/Datamining/PreRead.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/roke/tool/DecimalCalculate.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

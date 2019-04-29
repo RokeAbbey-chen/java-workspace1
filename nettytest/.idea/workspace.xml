@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dbb8864-e568-4af4-881e-a01a6f4876fb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../remote-interface-test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socks5-netty-master/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socks5-netty-master/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socks5-netty-master/src/test/java/com/geccocrawler/socks5/test/HttpProxyClient2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socks5-netty-master/src/test/java/com/geccocrawler/socks5/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socks5-netty-master/src/test/java/com/geccocrawler/socks5/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../websocket/nettyWebsocketClient-master/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../websocket/nettyWebsocketClient-master/src/main/java/org/wso2/netty/client/CharClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.pc-20170809gpbf_24591/FP.local.files_0/node.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.pc-20170809gpbf_24591/FP.local.files_0/node.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.pc-20170809gpbf_24591/H.local_16/node.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.pc-20170809gpbf_24591/H.local_16/node.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.pc-20170809gpbf_24591/node.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.pc-20170809gpbf_24591/node.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoteSystemsTempFiles/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoteSystemsTempFiles/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-interface-test/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-interface-test/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-interface-test/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-interface-test/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-interface-test/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-interface-test/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-interface-test/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-interface-test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-interface-test/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-interface-test/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-interface-test/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-interface-test/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-interface-test/src/main/java/HttpUrlConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-interface-test/src/main/java/HttpUrlConnectionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-interface-test/src/main/java/myrmi/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-interface-test/src/main/java/myrmi/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-interface-test/src/main/java/myrmi/server/IService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-interface-test/src/main/java/myrmi/server/IService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-interface-test/src/main/java/myrmi/server/IServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-interface-test/src/main/java/myrmi/server/IServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-interface-test/src/main/java/myrmi/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-interface-test/src/main/java/myrmi/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rmi-test-2/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../rmi-test-2/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rmi-test-2/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rmi-test-2/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rmi-test-2/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rmi-test-2/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rmi-test-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rmi-test-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rmi-test-2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../rmi-test-2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rmi-test-2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../rmi-test-2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rmi-test-2/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../rmi-test-2/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rmi-test-2/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../rmi-test-2/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rmi-test-2/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rmi-test-2/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rmi-test-2/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rmi-test-2/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rmi-test-2/src/main/java/myrmi/server/IService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rmi-test-2/src/main/java/myrmi/server/IService.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/nettytest$List4_3.coverage" NAME="List4_3 Coverage Results" MODIFIED="1530095015431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>chapter4.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter11/Listing11_5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-253">
+              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+              <folding>
+                <element signature="e#1284#1646#0" expanded="true" />
+                <element signature="e#1645#1646#0" expanded="true" />
+                <element signature="e#1675#2286#0" expanded="true" />
+                <element signature="e#2285#2286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/http/client/one/HttpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1472">
+              <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter1/List1_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter4/List4_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1357">
+              <caret line="69" column="43" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter4/List4_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2484">
+              <caret line="131" column="9" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter4/List10_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1058">
+              <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/netty/websocket/test1/client/CharClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2093">
+              <caret line="94" column="29" lean-forward="true" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1405#1406#0" expanded="true" />
+                <element signature="e#1443#1444#0" expanded="true" />
+                <element signature="e#2177#2178#0" expanded="true" />
+                <element signature="e#2229#2230#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/rt.jar!/sun/nio/ch/WindowsSelectorProvider.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fireChannelRead</find>
+      <find>head</find>
+      <find>read</find>
+      <find>read\(</find>
+      <find>extends FastThread</find>
+      <find>write</find>
+      <find>Memory</find>
+      <find>Memo</find>
+      <find>touch</find>
+      <find>release</find>
+      <find>X.509</find>
+      <find>SO_KEEPALIVE</find>
+      <find>ServerSocket\(</find>
+      <find>new ScheduledFutureTask</find>
+      <find>openSelector</find>
+      <find>extends AbstractNioChann</find>
+      <find>GatheringByteChannel</find>
+      <find>(?:extends|implements).*?GatheringByteChannel</find>
+      <find>extends SslContext</find>
+      <find>FileUpload</find>
+      <find>FileUpl</find>
+      <find>握手</find>
+      <find>XqtvLogger</find>
+      <find>^[^/i](.*XqtvLo)</find>
+      <find>EP</find>
+      <find>HttpMethod.POST</find>
+      <find>POST</find>
+      <find>System.out.print</find>
+      <find>HttpMethod.POS</find>
+      <find>-----</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>//$1</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/chapter4</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/chapter1/List1_4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/List10_1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/KeyStoreTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/List4_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/Test4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/List4_2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/Test5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter11/List11_2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/ClassDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter2/EchoServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/niubi.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/http/server/one/HttpDemoServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Upload.java" />
+        <option value="$PROJECT_DIR$/src/main/java/http/server/one/HttpDemoServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/http/server/one/HttpDemoServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/http/client/one/HttpClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/jdk/aaa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/jdk/bbb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/jdk/TestApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test1/AAA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test1/CCC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test1/BBB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test1/WebClientEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test1/SocketClientEngine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Test3.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ws/handler/GroupJoinRoomHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/EProgram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test2/LoginMonitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test2/BaseMonitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websocket/test3/CharClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/netty/websocket/test1/client/CharClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/WSApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter11/Listing11_5.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="netty-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="279" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nettytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nettytest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nettytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nettytest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nettytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nettytest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nettytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nettytest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nettytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nettytest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nettytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nettytest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nettytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nettytest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nettytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nettytest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nettytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nettytest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nettytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nettytest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nettytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="WebSocketContent&#9;PSI&#9;JAVA://netty.websocket.test1.client.CharClient.WebSocketContentHandler&#10;DefaultChannelFu&#9;PSI&#9;JAVA://io.netty.channel.group.DefaultChannelGroupFuture&#10;ChannelPromise&#9;PSI&#9;JAVA://io.netty.channel.ChannelPromise&#10;HttpRe&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/handler/codec/http/HttpResponseDecoder.java&#10;HttpRequestDe&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/handler/codec/http/HttpRequestDecoder.java&#10;Enum.class&#9;FILE&#9;jar://F:/MyWorks/jdk/8u151/jre/lib/rt.jar!/java/lang/Enum.class&#10;Enum.java&#9;FILE&#9;jar://F:/MyWorks/jdk/8u151/src.zip!/java/lang/Enum.java&#10;Enum&#9;PSI&#9;JAVA://java.lang.Enum&#10;Htt&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectAggregator.java&#10;Messa&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/handler/codec/MessageAggregator.java&#10;Http&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectAggregator.java&#10;Message&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/handler/codec/MessageAggregator.java&#10;HttpO&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectAggregator.java&#10;DefaultChannelPi&#9;PSI&#9;JAVA://io.netty.channel.DefaultChannelPipeline&#10;ServerSocketChannelIm&#9;PSI&#9;JAVA://sun.nio.ch.ServerSocketChannelImpl&#10;Selector&#9;FILE&#9;jar://F:/MyWorks/jdk/8u151/src.zip!/java/nio/channels/Selector.java&#10;DefaultPipeline&#9;PSI&#9;JAVA://io.netty.channel.DefaultChannelPipeline" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553842284815" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.splitter.proportion" value="0.25933334" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MyWorks\workspace\javaworkspace\nettytest\src\main\java\util" />
+      <recent name="F:\MyWorks\workspace\javaworkspace\nettytest\src\main\java" />
+      <recent name="F:\MyWorks\workspace\javaworkspace\nettytest\src\main\java\websocket\test2" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="http.server.one" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Listing11_5">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.websocket.test1.client.CharClient" />
+      <module name="nettytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.websocket.test1.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="List4_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.List4_3" />
+      <module name="nettytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Listing11_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.Listing11_5" />
+      <module name="nettytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="websocket.test2.Main" />
+      <module name="nettytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="websocket.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketClientEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="websocket.test1.SocketClientEngine" />
+      <module name="nettytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="websocket.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SocketClientEngine" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.CharClient" />
+      <item itemvalue="Application.Listing11_5" />
+      <item itemvalue="Application.List4_3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Listing11_5" />
+        <item itemvalue="Application.List4_3" />
+        <item itemvalue="Application.CharClient" />
+        <item itemvalue="Application.SocketClientEngine" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dbb8864-e568-4af4-881e-a01a6f4876fb" name="Default" comment="" />
+      <created>1529384062954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529384062954</updated>
+      <workItem from="1529384066809" duration="1386000" />
+      <workItem from="1529463585900" duration="13343000" />
+      <workItem from="1529573789134" duration="1992000" />
+      <workItem from="1529734489705" duration="14374000" />
+      <workItem from="1529890830274" duration="23437000" />
+      <workItem from="1529979683223" duration="19919000" />
+      <workItem from="1530064471449" duration="21796000" />
+      <workItem from="1530150263723" duration="16275000" />
+      <workItem from="1530169320306" duration="12720000" />
+      <workItem from="1530236262834" duration="26093000" />
+      <workItem from="1530325742236" duration="20006000" />
+      <workItem from="1530495284264" duration="28552000" />
+      <workItem from="1530581568650" duration="9008000" />
+      <workItem from="1530594736032" duration="9233000" />
+      <workItem from="1530667974371" duration="2439000" />
+      <workItem from="1530689418021" duration="2893000" />
+      <workItem from="1530755988302" duration="20280000" />
+      <workItem from="1530842989338" duration="18213000" />
+      <workItem from="1530928035330" duration="4325000" />
+      <workItem from="1530943911409" duration="8305000" />
+      <workItem from="1531102740336" duration="12290000" />
+      <workItem from="1531187073486" duration="14266000" />
+      <workItem from="1531273115478" duration="18150000" />
+      <workItem from="1531359846701" duration="12819000" />
+      <workItem from="1531382029888" duration="647000" />
+      <workItem from="1531383218823" duration="7714000" />
+      <workItem from="1531448428869" duration="15772000" />
+      <workItem from="1531704883595" duration="24731000" />
+      <workItem from="1531792133547" duration="7636000" />
+      <workItem from="1531877475342" duration="610000" />
+      <workItem from="1531963958945" duration="591000" />
+      <workItem from="1532057492887" duration="697000" />
+      <workItem from="1532309418325" duration="2538000" />
+      <workItem from="1533198030789" duration="7445000" />
+      <workItem from="1533538249163" duration="1273000" />
+      <workItem from="1533605697039" duration="13168000" />
+      <workItem from="1534502304349" duration="2369000" />
+      <workItem from="1534846988513" duration="1190000" />
+      <workItem from="1534901159100" duration="590000" />
+      <workItem from="1534989234253" duration="592000" />
+      <workItem from="1535074967282" duration="565000" />
+      <workItem from="1535334027120" duration="14599000" />
+      <workItem from="1535421170964" duration="10992000" />
+      <workItem from="1535506633146" duration="10097000" />
+      <workItem from="1535537475853" duration="2454000" />
+      <workItem from="1535608647007" duration="9400000" />
+      <workItem from="1535682499955" duration="12615000" />
+      <workItem from="1535938883533" duration="1867000" />
+      <workItem from="1536024982646" duration="590000" />
+      <workItem from="1536039458913" duration="7441000" />
+      <workItem from="1536056597134" duration="721000" />
+      <workItem from="1536057384545" duration="176000" />
+      <workItem from="1536057805573" duration="1715000" />
+      <workItem from="1536111605607" duration="1877000" />
+      <workItem from="1536197669433" duration="125000" />
+      <workItem from="1536222997755" duration="6907000" />
+      <workItem from="1536286757808" duration="2404000" />
+      <workItem from="1536543382634" duration="2671000" />
+      <workItem from="1536630616977" duration="595000" />
+      <workItem from="1536716179228" duration="598000" />
+      <workItem from="1536916662287" duration="953000" />
+      <workItem from="1552963938004" duration="1585000" />
+      <workItem from="1552966289625" duration="8087000" />
+      <workItem from="1553507432188" duration="401000" />
+      <workItem from="1553508051407" duration="31000" />
+      <workItem from="1553770635078" duration="1740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test3_main - 2018.08.07 at 10h 27m 18s.xml">
+      <configuration name="Test3.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test3_test5 - 2018.08.07 at 10h 04m 45s.xml">
+      <configuration name="Test3.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test3_test5 - 2018.08.07 at 10h 09m 36s.xml">
+      <configuration name="Test3.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test3_test5 - 2018.08.07 at 10h 10m 25s.xml">
+      <configuration name="Test3.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test3_test5 - 2018.08.07 at 10h 19m 38s.xml">
+      <configuration name="Test3.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test3_test5 - 2018.08.07 at 10h 21m 32s.xml">
+      <configuration name="Test3.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test3_test5 - 2018.08.07 at 10h 33m 52s.xml">
+      <configuration name="Test3.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test3_test5 - 2018.08.07 at 10h 34m 20s.xml">
+      <configuration name="Test3.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test3_test5 - 2018.08.07 at 10h 34m 33s.xml">
+      <configuration name="Test3.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test3_test5 - 2018.08.07 at 10h 37m 24s.xml">
+      <configuration name="Test3.test5" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="520883000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="279" y="23" width="1440" height="1057" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2801724" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Project Explorer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Job Explorer" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Image Layers" order="8" />
+      <window_info id="Capture Tool" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49640805" weight="0.3708108" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39331028" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50359195" side_tool="true" visible="true" weight="0.3708108" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49856323" weight="0.325054" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Console" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" x="10" y="835" width="1736" height="856" id="Documentation" order="5" type="FLOATING" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.23768736" />
+      <window_info anchor="right" id="JSF" order="7" />
+      <window_info anchor="right" id="FAQ Robot" order="8" />
+      <window_info anchor="right" id="CDI" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" visible="true" weight="0.32976446" />
+      <window_info anchor="right" id="Database" order="12" weight="0.3298611" />
+      <window_info anchor="right" id="Maven" order="13" />
+      <window_info anchor="right" id="Capture Analysis" order="14" />
+      <window_info anchor="right" id="Theme Preview" order="15" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18683083" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Project Explorer" order="3" />
+      <window_info id="Job Explorer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44867358" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29411766" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Console" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3290993" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.23768736" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" x="92" y="92" width="1736" height="856" id="Documentation" order="7" type="FLOATING" visible="true" />
+      <window_info anchor="right" id="FAQ Robot" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32976446" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/handler/codec/http/HttpRequestDecoder.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectDecoder.java</url>
+          <line>195</line>
+          <properties />
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/http/server/one/HttpDemoServerHandler.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/http/server/one/HttpDemoServerHandler.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/websocket/test1/WebClientEnum.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/java-websocket/Java-WebSocket/1.3.9/Java-WebSocket-1.3.9-sources.jar!/org/java_websocket/client/WebSocketClient.java</url>
+          <line>453</line>
+          <properties />
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/java-websocket/Java-WebSocket/1.3.9/Java-WebSocket-1.3.9-sources.jar!/org/java_websocket/client/WebSocketClient.java</url>
+          <line>418</line>
+          <properties />
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/websocket/test2/Main.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/websocket/test2/Main.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog>
+          <selected-grouping-rules>
+            <grouping-rule id="XBreakpointGroupingByPackageRule" />
+          </selected-grouping-rules>
+        </breakpoints-dialog>
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="sentence.getBytes()" language="JAVA" />
+        <watch expression="selector.select()" language="JAVA" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="buffer.toString(CharsetUtil.UTF_8)" language="JAVA" custom="io.netty.util.CharsetUtil" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>buffer.toString(CharsetUtil.UTF_8)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>io.netty.util.CharsetUtil</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.out.println(sb.toString());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>input.available()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.out.print(sb.toString())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getClass().getDeclaredConstructors()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>eventLoop().unwrappedSelector()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>javaChannel()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((NioServerSocketChannel) this$0).javaChannel().socket().isBound()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>io.netty.channel.socket.nio.NioServerSocketChannel</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((AbstractNioMessageChannel.NioMessageUnsafe) this).ch()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>io.netty.channel.nio.AbstractNioMessageChannel</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ch</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/handler/BetpkHandler.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/util/concurrent/ProgressivePromise.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/handler/MatchAgainHandler.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/util/concurrent/Promise.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/bean/WSZone.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/buffer/AbstractByteBuf.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/handler/CancelLadderMatchHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/WSConstants.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/bean/WSRoom.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/bean/WSLoginHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/bean/HeartbeatHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/handler/WSHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/handler/DefeatedHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/handler/ShareInfoHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/handler/StartmatchHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/handler/DemandpkHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/handler/GroupJoinRoomHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/handler/InviteFriendHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/handler/PromotionEnrollHandler.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/tv/paopao/service-core/1.0/service-core-1.0.jar!/com/xqtv/paopao/dataaccess/dto/GamePk.class" />
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14532">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/java-websocket/Java-WebSocket/1.3.9/Java-WebSocket-1.3.9-sources.jar!/org/java_websocket/client/WebSocketClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test2/MonitorThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test2/LoginMonitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test1/WebClientEnum.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test1/SocketClientEngine.java" />
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/net/URI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8904">
+          <caret line="463" column="19" selection-start-line="463" selection-start-column="19" selection-end-line="463" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/channel/ChannelFuture.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/channel/group/DefaultChannelGroupFuture.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/channel/ChannelPromise.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final-sources.jar!/io/netty/buffer/ByteBuf.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test3/CharClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/jdk/WebsocketClientEndpoint.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter11/List11_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/rt.jar!/sun/nio/ch/WindowsSelectorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <marker date="1509347684374" expanded="true" signature="4198:4468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/WSConstants.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/WSUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test2/BaseMonitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test2/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websocket/test1/MsgWebSocketClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/EProgram.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/WSApi.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/http/client/one/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter1/List1_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter4/List4_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1357">
+          <caret line="69" column="43" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter4/List4_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="131" column="9" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter4/List10_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/rt.jar!/sun/nio/ch/WindowsSelectorProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/netty/websocket/test1/client/CharClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2093">
+          <caret line="94" column="29" lean-forward="true" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#2177#2178#0" expanded="true" />
+            <element signature="e#2229#2230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter11/Listing11_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="e#1284#1646#0" expanded="true" />
+            <element signature="e#1645#1646#0" expanded="true" />
+            <element signature="e#1675#2286#0" expanded="true" />
+            <element signature="e#2285#2286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>nettytest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: io.netty:netty-all:4.1.25.Final</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

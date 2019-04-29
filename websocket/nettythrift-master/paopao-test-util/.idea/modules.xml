@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paopao-test-util.iml" filepath="$PROJECT_DIR$/.idea/modules/paopao-test-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paopao-test-util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/paopao-test-util_main.iml" group="paopao-test-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paopao-test-util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/paopao-test-util_test.iml" group="paopao-test-util" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71419869-1440-46b6-97cb-a728fcd0c983" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="AbstractBootstrap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7130">
+              <caret line="355" column="24" lean-forward="false" selection-start-line="355" selection-start-column="24" selection-end-line="355" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractChannel.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16284">
+              <caret line="846" column="21" lean-forward="false" selection-start-line="846" selection-start-column="21" selection-end-line="846" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractNioChannel.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="48" column="55" lean-forward="false" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractNioMessageChannel.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/AbstractNioMessageChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="34" column="69" lean-forward="false" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayIterator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/org/hamcrest/internal/ArrayIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByteToMessageDecoder.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/ByteToMessageDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1058">
+              <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Channel.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/Channel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5842">
+              <caret line="277" column="13" lean-forward="false" selection-start-line="277" selection-start-column="13" selection-end-line="277" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChannelOutboundInvoker.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelOutboundInvoker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2162">
+              <caret line="112" column="18" lean-forward="false" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cipher.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/jce.jar!/javax/crypto/Cipher.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12121">
+              <caret line="568" column="0" lean-forward="false" selection-start-line="568" selection-start-column="0" selection-end-line="568" selection-end-column="0" />
+              <folding>
+                <marker date="1509347679528" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1509347679528" expanded="false" signature="136:1529" ph="..." />
+                <marker date="1509347679528" expanded="true" signature="3143:3478" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="3520:3670" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="3787:3997" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="4095:5103" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="5206:6157" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="6251:6612" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="6726:8261" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="8413:8816" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="8945:11427" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="11501:11928" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="11961:15300" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="15511:16177" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="16378:19679" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="19721:19794" ph="{...}" />
+                <marker date="1509347679528" expanded="false" signature="19834:19845" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="19872:19878" ph=" }" />
+                <marker date="1509347679528" expanded="true" signature="19916:20005" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="20052:20449" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="20483:20565" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="20620:20710" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="20772:20843" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="20931:21484" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="21637:22055" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="22205:22649" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="22773:24236" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="24284:24412" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="24466:24748" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="24824:24882" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="24977:25725" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="25866:25930" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="26090:26673" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="26811:26875" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="27032:27618" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="27702:27760" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="27863:29213" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="29251:29612" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="29658:29952" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="30018:30353" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="30457:30798" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="30912:31269" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="31361:31957" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="32047:32182" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="32312:32600" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="32701:32970" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="33091:33408" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="33561:33887" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="34050:34392" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="34533:35130" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="35225:35636" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="35755:36337" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="36463:37123" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="37252:37495" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="37593:37700" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="37821:37940" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="37987:38169" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="38236:38595" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="38646:38958" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="38995:41073" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="39282:39454" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="39556:39766" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="39814:40066" ph="{...}" />
+                <marker date="1509347679528" expanded="false" signature="40106:40121" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="40172:40182" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="40225:40240" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="40293:40303" ph=" }" />
+                <marker date="1509347679528" expanded="true" signature="40381:40705" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="40772:41067" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48967">
+              <caret line="2216" column="0" lean-forward="false" selection-start-line="2216" selection-start-column="0" selection-end-line="2216" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassLoader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/lang/ClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23598">
+              <caret line="1095" column="36" lean-forward="false" selection-start-line="1095" selection-start-column="36" selection-end-line="1095" selection-end-column="36" />
+              <folding>
+                <element signature="e#44527#44528#0" expanded="true" />
+                <element signature="e#44554#44555#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/bean/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="30" column="69" lean-forward="false" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
+              <folding>
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CryptoAllPermission.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/jce.jar!/javax/crypto/CryptoAllPermission.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <marker date="1509347679528" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1509347679528" expanded="false" signature="136:204" ph="..." />
+                <marker date="1509347679528" expanded="true" signature="504:515" ph=" { " />
+                <marker date="1509347679528" expanded="true" signature="544:550" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="595:606" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="646:652" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="692:703" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="727:733" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="760:771" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="780:786" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="845:856" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="899:905" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CryptoPermission.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/jce.jar!/javax/crypto/CryptoPermission.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1495">
+              <caret line="73" column="28" lean-forward="false" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+              <folding>
+                <marker date="1509347679528" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1509347679528" expanded="false" signature="136:383" ph="..." />
+                <marker date="1509347679528" expanded="true" signature="791:852" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="898:991" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="1066:1225" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="1274:1375" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="1434:1567" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="1655:1854" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="1900:2627" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="2668:3347" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="3375:3759" ph="{...}" />
+                <marker date="1509347679528" expanded="false" signature="3791:3802" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="3814:3820" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="3879:3890" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="3930:3936" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="3969:3980" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="3996:4002" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="4044:4055" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="4086:4092" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="4123:4134" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="4157:4163" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="4198:4209" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="4232:4238" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="4300:4311" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="4336:4342" ph=" }" />
+                <marker date="1509347679528" expanded="true" signature="4373:5089" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="5150:5374" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="5460:6506" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="6567:6700" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultChannelPipeline.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28773">
+              <caret line="1385" column="24" lean-forward="false" selection-start-line="1385" selection-start-column="24" selection-end-line="1385" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnCryptor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/EnCryptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2525#2717#0" expanded="true" />
+                <element signature="e#2716#2717#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnCryptorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/EnCryptorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputStreamReader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/io/InputStreamReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1058">
+              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstrumentationImpl.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5635">
+              <caret line="268" column="0" lean-forward="false" selection-start-line="268" selection-start-column="0" selection-end-line="268" selection-end-column="0" />
+              <folding>
+                <marker date="1509347684374" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1509347684374" expanded="false" signature="138:493" ph="..." />
+                <marker date="1509347684374" expanded="true" signature="1101:1386" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="1445:1456" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="1489:1495" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="1582:2527" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="2606:3198" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="3252:3477" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="3530:3856" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="3908:4170" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="4219:4230" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="4278:4284" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="4373:5052" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="5094:5105" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="5157:5163" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="5221:5232" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="5290:5296" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="5341:5562" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="5629:5718" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="5782:5872" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="5924:5935" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="5986:5992" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="6085:6887" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="6970:7298" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="8185:8394" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="8225:8291" ph="run() → {" />
+                <marker date="1509347684374" expanded="false" signature="8371:8386" ph="}" />
+                <marker date="1509347684374" expanded="true" signature="8492:9802" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="9888:9955" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="10043:10112" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="10239:10437" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="10450:10499" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeyGenerator.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/jce.jar!/javax/crypto/KeyGenerator.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5244">
+              <caret line="246" column="27" lean-forward="false" selection-start-line="246" selection-start-column="27" selection-end-line="246" selection-end-column="27" />
+              <folding>
+                <marker date="1509347679528" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1509347679528" expanded="false" signature="136:598" ph="..." />
+                <marker date="1509347679528" expanded="true" signature="1397:1645" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="1717:2243" ph="{...}" />
+                <marker date="1509347679528" expanded="false" signature="2283:2294" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="2316:2322" ph=" }" />
+                <marker date="1509347679528" expanded="true" signature="2418:2464" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="2598:2787" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="2898:3087" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="3129:3283" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="3357:5360" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="5389:5524" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="5572:6399" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="6499:6551" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="6670:7886" ph="{...}" />
+                <marker date="1509347679528" expanded="false" signature="7924:7935" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="7971:7977" ph=" }" />
+                <marker date="1509347679528" expanded="true" signature="8035:8877" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="8920:9569" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeySpec.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/security/spec/KeySpec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="61" column="17" lean-forward="false" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Launcher.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/rt.jar!/sun/misc/Launcher.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3220">
+              <caret line="172" column="15" lean-forward="false" selection-start-line="172" selection-start-column="15" selection-end-line="172" selection-end-column="15" />
+              <folding>
+                <marker date="1509347684374" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1509347684374" expanded="false" signature="132:883" ph="..." />
+                <marker date="1509347684374" expanded="false" signature="1248:1259" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="1275:1281" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="1305:2761" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="2802:2813" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="2832:2838" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="2894:2905" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="2945:2951" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="3002:3190" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="3244:4397" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="4436:4730" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="4787:7443" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="4974:5505" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="5199:5303" ph="run() → {" />
+                <marker date="1509347684374" expanded="false" signature="5474:5493" ph="}" />
+                <marker date="1509347684374" expanded="true" signature="5560:5664" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="5757:6520" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="6593:6752" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="6824:6942" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="7041:7356" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="7373:7437" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="7490:8775" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="7570:7581" ph="{}" />
+                <marker date="1509347684374" expanded="true" signature="7598:8769" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="7734:7806" ph="run() → {" />
+                <marker date="1509347684374" expanded="false" signature="8523:8546" ph="}" />
+                <marker date="1509347684374" expanded="true" signature="8832:12944" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="8919:9653" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="9064:9200" ph="run() → {" />
+                <marker date="1509347684374" expanded="false" signature="9493:9516" ph="}" />
+                <marker date="1509347684374" expanded="false" signature="9687:9702" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="9721:9731" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="9795:9970" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="10015:10552" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="10626:11282" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="11331:12453" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="12542:12857" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="12874:12938" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="13014:13567" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="13106:13117" ph="{}" />
+                <marker date="1509347684374" expanded="true" signature="13187:13561" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocalServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/main/LocalServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1359#1360#0" expanded="true" />
+                <element signature="e#1388#1389#0" expanded="true" />
+                <element signature="e#1453#1454#0" expanded="true" />
+                <element signature="e#1480#1481#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/main/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xxx.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/main/xxx.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="54" lean-forward="false" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar!/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageToByteEncoder.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/MessageToByteEncoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NioServerSocketChannel.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2024">
+              <caret line="141" column="18" lean-forward="false" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Permission.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/security/Permission.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1242">
+              <caret line="77" column="11" lean-forward="false" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+              <folding>
+                <element signature="e#2160#2161#0" expanded="true" />
+                <element signature="e#2192#2193#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepositoryHandler.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-core-4.0.jar!/org/gradle/api/artifacts/dsl/RepositoryHandler.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+              <folding>
+                <marker date="1514362141100" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1514362141100" expanded="false" signature="152:535" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xxx.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/xxx.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="85" lean-forward="false" selection-start-line="0" selection-start-column="85" selection-end-line="0" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecretKeySpec.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/jce.jar!/javax/crypto/spec/SecretKeySpec.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <folding>
+                <marker date="1509347679528" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1509347679528" expanded="false" signature="141:260" ph="..." />
+                <marker date="1509347679528" expanded="true" signature="498:868" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="941:1623" ph="{...}" />
+                <marker date="1509347679528" expanded="false" signature="1657:1668" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="1690:1696" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="1727:1738" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="1751:1757" ph=" }" />
+                <marker date="1509347679528" expanded="false" signature="1789:1800" ph=" { " />
+                <marker date="1509347679528" expanded="false" signature="1832:1838" ph=" }" />
+                <marker date="1509347679528" expanded="true" signature="1866:2163" ph="{...}" />
+                <marker date="1509347679528" expanded="true" signature="2204:2840" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/main/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerBootstrap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SocketUtils.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/util/internal/SocketUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Socks5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/util/Socks5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="805">
+              <caret line="35" column="39" lean-forward="false" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+              <folding>
+                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Socks5Channel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/bean/Socks5Channel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Socks5Decoder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/Socks5Decoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2599">
+              <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#resolveHeader#0;class#Socks5Decoder#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Socks5Encoder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/Socks5Encoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Socks5ServerChannel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/bean/Socks5ServerChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../test/src/main/java/roke/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="URLClassLoader.java" pinned="false" current-in-tab="true">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/net/URLClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="638" column="17" lean-forward="false" selection-start-line="638" selection-start-column="17" selection-end-line="638" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="URLClassPath.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2392">
+              <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+              <folding>
+                <marker date="1509347684374" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1509347684374" expanded="false" signature="132:1564" ph="..." />
+                <marker date="1509347684374" expanded="true" signature="2668:3208" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="3245:3256" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="3326:3332" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="3396:3407" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="3455:3461" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="3520:4068" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="4116:4546" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="4575:4730" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="4787:5123" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="5184:5634" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="5717:6888" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="5757:6881" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="5940:6471" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="6517:6536" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="6555:6569" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="6608:6871" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="6934:6945" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="6981:6987" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="7074:8264" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="7119:8257" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="7307:7837" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="7883:7902" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="7921:7935" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="7979:8247" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="8324:8335" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="8372:8378" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="8436:8625" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="8667:8678" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="8705:8711" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="9016:9147" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="9208:9853" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="9904:10316" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="10391:10851" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="10934:11492" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="11559:13122" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="13201:14039" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="13287:13411" ph="run() → {" />
+                <marker date="1509347684374" expanded="false" signature="13889:13908" ph="}" />
+                <marker date="1509347684374" expanded="true" signature="14075:14282" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="14332:15084" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="15120:15261" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="15314:16385" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="16398:16951" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="17017:19514" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="17094:17468" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="17522:17647" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="17711:19508" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="18661:19390" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="18710:18741" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="18753:18779" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="18824:18855" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="18867:18893" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="18948:18979" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="19015:19041" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="19122:19211" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="19286:19368" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="19571:32681" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="20143:20954" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="21003:21166" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="21196:21211" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="21227:21237" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="21286:21301" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="21342:21352" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="21407:23204" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="21517:21619" ph="run() → {" />
+                <marker date="1509347684374" expanded="false" signature="23003:23030" ph="}" />
+                <marker date="1509347684374" expanded="true" signature="23271:23746" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="23812:24449" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="24479:24677" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="24764:26266" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="25270:26255" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="25311:25334" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="25346:25364" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="25401:25424" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="25436:25454" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="25501:25524" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="25550:25568" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="25641:25728" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="25775:25798" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="25825:25843" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="25910:25990" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="26046:26069" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="26099:26117" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="26171:26194" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="26223:26241" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="26308:26984" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="27038:27163" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="27221:27949" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="28025:31142" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="28887:29037" ph="run() → {" />
+                <marker date="1509347684374" expanded="false" signature="29217:29256" ph="}" />
+                <marker date="1509347684374" expanded="true" signature="31192:32102" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="32174:32256" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="32347:32675" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="32736:35874" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="32828:32843" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="32860:32870" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="32896:32911" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="32928:32938" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="32992:34009" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="34073:35525" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="34924:35514" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="34965:34988" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="35000:35018" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="35055:35078" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="35090:35108" ph=" }" />
+                <marker date="1509347684374" expanded="false" signature="35155:35178" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="35202:35220" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="35293:35362" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="35429:35500" ph="{...}" />
+                <marker date="1509347684374" expanded="false" signature="35568:35583" ph=" { " />
+                <marker date="1509347684374" expanded="false" signature="35619:35629" ph=" }" />
+                <marker date="1509347684374" expanded="true" signature="35678:35782" ph="{...}" />
+                <marker date="1509347684374" expanded="true" signature="35832:35868" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xxx.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/roke/xxx.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="90" lean-forward="false" selection-start-line="0" selection-start-column="90" selection-end-line="0" selection-end-column="90" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\Administrator\.gradle\wrapper\dists\gradle-4.0-bin\3p92xsbhik5vmig8i90n16yxc\gradle-4.0" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.0" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="netty-simple-shadowsocks" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="netty-simple-shadowsocks" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'netty-simple-shadowsocks'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'netty-simple-shadowsocks'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'netty-simple-shadowsocks'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'netty-simple-shadowsocks'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'netty-simple-shadowsocks'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'netty-simple-shadowsocks'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'netty-simple-shadowsocks'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'netty-simple-shadowsocks'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'netty-simple-shadowsocks'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4600880039413" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="305710671" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="975608090" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1982906069" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="netty-simple-shadowsocks" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-base-services-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-base-services-groovy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-cli-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-core-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-docs-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-installation-beacon-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-jvm-services-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-launcher-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-logging-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-messaging-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-model-core-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-model-groovy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-process-services-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-resources-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-runtime-api-info-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-script-kotlin-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-script-kotlin-compiler-plugin-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-script-kotlin-tooling-builders-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-script-kotlin-tooling-models-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-tooling-api-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-wrapper-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/groovy-all-2.4.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-announce-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-antlr-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-build-cache-http-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-build-comparison-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-build-init-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-code-quality-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-composite-builds-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-dependency-management-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-diagnostics-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-ear-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-ide-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-ide-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-ide-play-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-ivy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-jacoco-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-javascript-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-language-groovy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-language-java-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-language-jvm-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-language-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-language-scala-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-maven-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-osgi-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-platform-base-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-platform-jvm-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-platform-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-platform-play-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-plugin-development-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-plugin-use-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-plugins-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-publish-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-reporting-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-resources-http-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-resources-s3-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-resources-sftp-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-scala-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-signing-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-test-kit-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-testing-base-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-testing-jvm-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-testing-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-tooling-api-builders-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-workers-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../wlq/bighomework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/Socks5Encoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/rokeabbey/util/Socks5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/rokeabbey/bean/Socks5ServerChannel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/rokeabbey/main/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/rokeabbey/bean/Socks5Channel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/rokeabbey/bean/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/Socks5Decoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/rokeabbey/main/LocalServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/EnCryptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/EnCryptorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/rokeabbey/main/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/xxx.dat" />
+        <option value="$PROJECT_DIR$/../test/src/main/java/roke/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/xxx.dat" />
+        <option value="$PROJECT_DIR$/src/main/resources/roke/xxx.dat" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="163" />
+    <option name="y" value="185" />
+    <option name="width" value="1484" />
+    <option name="height" value="896" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+              <item name="test_main.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="roke" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty-simple-shadowsocks" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.hamcrest:hamcrest-core:1.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.hamcrest:hamcrest-core:1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="hamcrest-core-1.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netty-simple-shadowsocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.hamcrest:hamcrest-core:1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="hamcrest-core-1.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crawl" />
+    <property name="SearchEverywhereHistoryKey" value="AppClas&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;AppClassLoader&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;NioS&#9;FILE&#9;jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java&#10;DefaultChannelPip&#9;PSI&#9;JAVA://io.netty.channel.DefaultChannelPipeline&#10;Nio&#9;FILE&#9;jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java&#10;NioServerS&#9;FILE&#9;jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MyWorks\workspace\javaworkspace\netty-simple-shadowsocks\src\main\resources" />
+      <recent name="F:\MyWorks\workspace\javaworkspace\netty-simple-shadowsocks\libs" />
+      <recent name="F:\MyWorks\workspace\javaworkspace\netty-simple-shadowsocks\src\main\java\cn\rokeabbey\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="EnCryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.rokeabbey.netty.handler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.rokeabbey.netty.handler.EnCryptor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty-simple-shadowsocks_main" />
+      <envs />
+    </configuration>
+    <configuration name="EnCryptorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.rokeabbey.netty.handler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.rokeabbey.netty.handler.EnCryptorTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty-simple-shadowsocks_main" />
+      <envs />
+    </configuration>
+    <configuration name="Socks5Decoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.rokeabbey.netty.handler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.rokeabbey.netty.handler.Socks5Decoder" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty-simple-shadowsocks_main" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.rokeabbey.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.rokeabbey.main.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty-simple-shadowsocks_main" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.Socks5Decoder" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EnCryptor" />
+      <item index="2" class="java.lang.String" itemvalue="Application.EnCryptorTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.EnCryptor" />
+        <item index="2" class="java.lang.String" itemvalue="Application.EnCryptorTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Socks5Decoder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71419869-1440-46b6-97cb-a728fcd0c983" name="Default" comment="" />
+      <created>1533624012165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533624012165</updated>
+      <workItem from="1533624109395" duration="10138000" />
+      <workItem from="1533714797066" duration="3284000" />
+      <workItem from="1533793801396" duration="7006000" />
+      <workItem from="1533865922424" duration="3658000" />
+      <workItem from="1533886254039" duration="6132000" />
+      <workItem from="1534140336367" duration="5082000" />
+      <workItem from="1534211577422" duration="10344000" />
+      <workItem from="1534297756420" duration="7511000" />
+      <workItem from="1534384194574" duration="3359000" />
+      <workItem from="1534455971002" duration="3353000" />
+      <workItem from="1534491376020" duration="2027000" />
+      <workItem from="1534730184952" duration="597000" />
+      <workItem from="1534816665179" duration="595000" />
+      <workItem from="1534901145779" duration="588000" />
+      <workItem from="1534989222705" duration="589000" />
+      <workItem from="1535074959625" duration="565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64828000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="163" y="185" width="1484" height="896" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39886847" sideWeight="0.22591007" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4025375" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38276836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38523644" sideWeight="0.77408993" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970026" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4036827" sideWeight="0.49786323" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="67" y="289" width="1596" height="723" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/net/URLClassLoader.java</url>
+          <line>572</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/net/URLClassLoader.java</url>
+          <line>568</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/rt.jar!/sun/misc/URLClassPath.class</url>
+          <line>154</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ucp.path" language="JAVA" />
+        <watch expression="this.path" language="JAVA" />
+        <watch expression="this.getLookupCache(var1)" language="JAVA" />
+        <watch expression="this.getNextLoader(null, 0).csu" language="JAVA" />
+        <watch expression="this.getNextLoader(null, 1).csu" language="JAVA" />
+        <watch expression="for (int i = 0; i &lt; 30; i ++){ &#9;System.out.println(getNextLoader(null, i).csu); }" language="JAVA" />
+        <watch expression="this.getNextLoader(null, 28).csu" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>this.getNextLoader(null, 28).csu</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getNextLoader(null, 0).csu</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>for (int i = 0; i &lt; 30; i ++){ 	System.out.println(getNextLoader(null, i).csu); }</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>for (int i = 0; i &lt; 30; i ++){ 	System.out.println(getNextLoader(null, i)); }</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.out.println(1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getNextLoader(null, 1).csu</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getNextLoader(null, 0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>var4</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>int[] var4 = this.getLookupCache(var1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getLookupCache(var1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/Socks5Decoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="99" column="19" lean-forward="false" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#resolveHeader#0;class#Socks5Decoder#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/test.jar!/META-INF/MANIFEST.MF" />
+    <entry file="jar://$PROJECT_DIR$/libs/test.jar!/roke/Test1.class" />
+    <entry file="jar://$PROJECT_DIR$/libs/test_main.jar!/roke/Test1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/xxx.dat" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7130">
+          <caret line="355" column="24" lean-forward="false" selection-start-line="355" selection-start-column="24" selection-end-line="355" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16284">
+          <caret line="846" column="21" lean-forward="false" selection-start-line="846" selection-start-column="21" selection-end-line="846" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="48" column="55" lean-forward="false" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/AbstractNioMessageChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="34" column="69" lean-forward="false" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/org/hamcrest/internal/ArrayIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/ByteToMessageDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5842">
+          <caret line="277" column="13" lean-forward="false" selection-start-line="277" selection-start-column="13" selection-end-line="277" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelOutboundInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2162">
+          <caret line="112" column="18" lean-forward="false" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/jce.jar!/javax/crypto/Cipher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12121">
+          <caret line="568" column="0" lean-forward="false" selection-start-line="568" selection-start-column="0" selection-end-line="568" selection-end-column="0" />
+          <folding>
+            <marker date="1509347679528" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1509347679528" expanded="false" signature="136:1529" ph="..." />
+            <marker date="1509347679528" expanded="true" signature="3143:3478" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="3520:3670" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="3787:3997" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="4095:5103" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="5206:6157" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="6251:6612" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="6726:8261" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="8413:8816" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="8945:11427" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="11501:11928" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="11961:15300" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="15511:16177" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="16378:19679" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="19721:19794" ph="{...}" />
+            <marker date="1509347679528" expanded="false" signature="19834:19845" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="19872:19878" ph=" }" />
+            <marker date="1509347679528" expanded="true" signature="19916:20005" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="20052:20449" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="20483:20565" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="20620:20710" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="20772:20843" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="20931:21484" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="21637:22055" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="22205:22649" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="22773:24236" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="24284:24412" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="24466:24748" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="24824:24882" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="24977:25725" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="25866:25930" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="26090:26673" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="26811:26875" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="27032:27618" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="27702:27760" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="27863:29213" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="29251:29612" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="29658:29952" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="30018:30353" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="30457:30798" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="30912:31269" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="31361:31957" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="32047:32182" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="32312:32600" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="32701:32970" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="33091:33408" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="33561:33887" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="34050:34392" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="34533:35130" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="35225:35636" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="35755:36337" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="36463:37123" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="37252:37495" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="37593:37700" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="37821:37940" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="37987:38169" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="38236:38595" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="38646:38958" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="38995:41073" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="39282:39454" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="39556:39766" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="39814:40066" ph="{...}" />
+            <marker date="1509347679528" expanded="false" signature="40106:40121" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="40172:40182" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="40225:40240" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="40293:40303" ph=" }" />
+            <marker date="1509347679528" expanded="true" signature="40381:40705" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="40772:41067" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48967">
+          <caret line="2216" column="0" lean-forward="false" selection-start-line="2216" selection-start-column="0" selection-end-line="2216" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23598">
+          <caret line="1095" column="36" lean-forward="false" selection-start-line="1095" selection-start-column="36" selection-end-line="1095" selection-end-column="36" />
+          <folding>
+            <element signature="e#44527#44528#0" expanded="true" />
+            <element signature="e#44554#44555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/bean/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="30" column="69" lean-forward="false" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
+          <folding>
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/jce.jar!/javax/crypto/CryptoAllPermission.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <marker date="1509347679528" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1509347679528" expanded="false" signature="136:204" ph="..." />
+            <marker date="1509347679528" expanded="true" signature="504:515" ph=" { " />
+            <marker date="1509347679528" expanded="true" signature="544:550" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="595:606" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="646:652" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="692:703" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="727:733" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="760:771" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="780:786" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="845:856" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="899:905" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/jce.jar!/javax/crypto/CryptoPermission.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="73" column="28" lean-forward="false" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+          <folding>
+            <marker date="1509347679528" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1509347679528" expanded="false" signature="136:383" ph="..." />
+            <marker date="1509347679528" expanded="true" signature="791:852" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="898:991" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="1066:1225" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="1274:1375" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="1434:1567" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="1655:1854" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="1900:2627" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="2668:3347" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="3375:3759" ph="{...}" />
+            <marker date="1509347679528" expanded="false" signature="3791:3802" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="3814:3820" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="3879:3890" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="3930:3936" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="3969:3980" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="3996:4002" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="4044:4055" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="4086:4092" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="4123:4134" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="4157:4163" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="4198:4209" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="4232:4238" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="4300:4311" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="4336:4342" ph=" }" />
+            <marker date="1509347679528" expanded="true" signature="4373:5089" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="5150:5374" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="5460:6506" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="6567:6700" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28773">
+          <caret line="1385" column="24" lean-forward="false" selection-start-line="1385" selection-start-column="24" selection-end-line="1385" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/EnCryptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2525#2717#0" expanded="true" />
+            <element signature="e#2716#2717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/EnCryptorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5635">
+          <caret line="268" column="0" lean-forward="false" selection-start-line="268" selection-start-column="0" selection-end-line="268" selection-end-column="0" />
+          <folding>
+            <marker date="1509347684374" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1509347684374" expanded="false" signature="138:493" ph="..." />
+            <marker date="1509347684374" expanded="true" signature="1101:1386" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="1445:1456" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="1489:1495" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="1582:2527" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="2606:3198" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="3252:3477" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="3530:3856" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="3908:4170" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="4219:4230" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="4278:4284" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="4373:5052" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="5094:5105" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="5157:5163" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="5221:5232" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="5290:5296" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="5341:5562" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="5629:5718" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="5782:5872" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="5924:5935" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="5986:5992" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="6085:6887" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="6970:7298" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="8185:8394" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="8225:8291" ph="run() → {" />
+            <marker date="1509347684374" expanded="false" signature="8371:8386" ph="}" />
+            <marker date="1509347684374" expanded="true" signature="8492:9802" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="9888:9955" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="10043:10112" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="10239:10437" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="10450:10499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/jce.jar!/javax/crypto/KeyGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5244">
+          <caret line="246" column="27" lean-forward="false" selection-start-line="246" selection-start-column="27" selection-end-line="246" selection-end-column="27" />
+          <folding>
+            <marker date="1509347679528" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1509347679528" expanded="false" signature="136:598" ph="..." />
+            <marker date="1509347679528" expanded="true" signature="1397:1645" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="1717:2243" ph="{...}" />
+            <marker date="1509347679528" expanded="false" signature="2283:2294" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="2316:2322" ph=" }" />
+            <marker date="1509347679528" expanded="true" signature="2418:2464" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="2598:2787" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="2898:3087" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="3129:3283" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="3357:5360" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="5389:5524" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="5572:6399" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="6499:6551" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="6670:7886" ph="{...}" />
+            <marker date="1509347679528" expanded="false" signature="7924:7935" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="7971:7977" ph=" }" />
+            <marker date="1509347679528" expanded="true" signature="8035:8877" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="8920:9569" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/security/spec/KeySpec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="61" column="17" lean-forward="false" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3220">
+          <caret line="172" column="15" lean-forward="false" selection-start-line="172" selection-start-column="15" selection-end-line="172" selection-end-column="15" />
+          <folding>
+            <marker date="1509347684374" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1509347684374" expanded="false" signature="132:883" ph="..." />
+            <marker date="1509347684374" expanded="false" signature="1248:1259" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="1275:1281" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="1305:2761" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="2802:2813" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="2832:2838" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="2894:2905" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="2945:2951" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="3002:3190" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="3244:4397" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="4436:4730" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="4787:7443" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="4974:5505" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="5199:5303" ph="run() → {" />
+            <marker date="1509347684374" expanded="false" signature="5474:5493" ph="}" />
+            <marker date="1509347684374" expanded="true" signature="5560:5664" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="5757:6520" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="6593:6752" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="6824:6942" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="7041:7356" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="7373:7437" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="7490:8775" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="7570:7581" ph="{}" />
+            <marker date="1509347684374" expanded="true" signature="7598:8769" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="7734:7806" ph="run() → {" />
+            <marker date="1509347684374" expanded="false" signature="8523:8546" ph="}" />
+            <marker date="1509347684374" expanded="true" signature="8832:12944" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="8919:9653" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="9064:9200" ph="run() → {" />
+            <marker date="1509347684374" expanded="false" signature="9493:9516" ph="}" />
+            <marker date="1509347684374" expanded="false" signature="9687:9702" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="9721:9731" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="9795:9970" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="10015:10552" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="10626:11282" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="11331:12453" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="12542:12857" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="12874:12938" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="13014:13567" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="13106:13117" ph="{}" />
+            <marker date="1509347684374" expanded="true" signature="13187:13561" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/main/LocalServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1359#1360#0" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#1453#1454#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/main/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/main/xxx.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="54" lean-forward="false" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/MessageToByteEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="141" column="18" lean-forward="false" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/security/Permission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="77" column="11" lean-forward="false" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+          <folding>
+            <element signature="e#2160#2161#0" expanded="true" />
+            <element signature="e#2192#2193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-core-4.0.jar!/org/gradle/api/artifacts/dsl/RepositoryHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding>
+            <marker date="1514362141100" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514362141100" expanded="false" signature="152:535" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/xxx.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="85" lean-forward="false" selection-start-line="0" selection-start-column="85" selection-end-line="0" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/jce.jar!/javax/crypto/spec/SecretKeySpec.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <marker date="1509347679528" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1509347679528" expanded="false" signature="141:260" ph="..." />
+            <marker date="1509347679528" expanded="true" signature="498:868" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="941:1623" ph="{...}" />
+            <marker date="1509347679528" expanded="false" signature="1657:1668" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="1690:1696" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="1727:1738" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="1751:1757" ph=" }" />
+            <marker date="1509347679528" expanded="false" signature="1789:1800" ph=" { " />
+            <marker date="1509347679528" expanded="false" signature="1832:1838" ph=" }" />
+            <marker date="1509347679528" expanded="true" signature="1866:2163" ph="{...}" />
+            <marker date="1509347679528" expanded="true" signature="2204:2840" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/main/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.28.Final/eb551d5ad67954f637cffcc010fbd0a913089188/netty-all-4.1.28.Final-sources.jar!/io/netty/util/internal/SocketUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/util/Socks5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="39" lean-forward="false" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding>
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/bean/Socks5Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/Socks5Decoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2599">
+          <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#resolveHeader#0;class#Socks5Decoder#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/netty/handler/Socks5Encoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/rokeabbey/bean/Socks5ServerChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/src/main/java/roke/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2392">
+          <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+          <folding>
+            <marker date="1509347684374" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1509347684374" expanded="false" signature="132:1564" ph="..." />
+            <marker date="1509347684374" expanded="true" signature="2668:3208" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="3245:3256" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="3326:3332" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="3396:3407" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="3455:3461" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="3520:4068" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="4116:4546" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="4575:4730" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="4787:5123" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="5184:5634" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="5717:6888" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="5757:6881" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="5940:6471" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="6517:6536" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="6555:6569" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="6608:6871" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="6934:6945" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="6981:6987" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="7074:8264" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="7119:8257" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="7307:7837" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="7883:7902" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="7921:7935" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="7979:8247" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="8324:8335" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="8372:8378" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="8436:8625" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="8667:8678" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="8705:8711" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="9016:9147" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="9208:9853" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="9904:10316" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="10391:10851" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="10934:11492" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="11559:13122" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="13201:14039" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="13287:13411" ph="run() → {" />
+            <marker date="1509347684374" expanded="false" signature="13889:13908" ph="}" />
+            <marker date="1509347684374" expanded="true" signature="14075:14282" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="14332:15084" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="15120:15261" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="15314:16385" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="16398:16951" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="17017:19514" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="17094:17468" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="17522:17647" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="17711:19508" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="18661:19390" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="18710:18741" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="18753:18779" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="18824:18855" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="18867:18893" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="18948:18979" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="19015:19041" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="19122:19211" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="19286:19368" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="19571:32681" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="20143:20954" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="21003:21166" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="21196:21211" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="21227:21237" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="21286:21301" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="21342:21352" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="21407:23204" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="21517:21619" ph="run() → {" />
+            <marker date="1509347684374" expanded="false" signature="23003:23030" ph="}" />
+            <marker date="1509347684374" expanded="true" signature="23271:23746" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="23812:24449" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="24479:24677" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="24764:26266" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="25270:26255" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="25311:25334" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="25346:25364" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="25401:25424" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="25436:25454" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="25501:25524" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="25550:25568" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="25641:25728" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="25775:25798" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="25825:25843" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="25910:25990" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="26046:26069" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="26099:26117" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="26171:26194" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="26223:26241" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="26308:26984" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="27038:27163" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="27221:27949" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="28025:31142" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="28887:29037" ph="run() → {" />
+            <marker date="1509347684374" expanded="false" signature="29217:29256" ph="}" />
+            <marker date="1509347684374" expanded="true" signature="31192:32102" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="32174:32256" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="32347:32675" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="32736:35874" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="32828:32843" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="32860:32870" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="32896:32911" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="32928:32938" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="32992:34009" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="34073:35525" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="34924:35514" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="34965:34988" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="35000:35018" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="35055:35078" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="35090:35108" ph=" }" />
+            <marker date="1509347684374" expanded="false" signature="35155:35178" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="35202:35220" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="35293:35362" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="35429:35500" ph="{...}" />
+            <marker date="1509347684374" expanded="false" signature="35568:35583" ph=" { " />
+            <marker date="1509347684374" expanded="false" signature="35619:35629" ph=" }" />
+            <marker date="1509347684374" expanded="true" signature="35678:35782" ph="{...}" />
+            <marker date="1509347684374" expanded="true" signature="35832:35868" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/roke/xxx.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="90" lean-forward="false" selection-start-line="0" selection-start-column="90" selection-end-line="0" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/8u151/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="638" column="17" lean-forward="false" selection-start-line="638" selection-start-column="17" selection-end-line="638" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>netty-simple-shadowsocks_main|netty-simple-shadowsocks</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32156864" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>libs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
